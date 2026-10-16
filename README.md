@@ -221,11 +221,8 @@ git clone https://github.com/Manikumarveldurthi/TRIP_PACKER.git
 
 ## 👨‍💻 Author
 
-**Veldurthi Venkata Manikumar**
-
-* GitHub: https://github.com/Manikumarveldurthi
-* LinkedIn: https://www.linkedin.com/in/veldurthi/
-* Email: [manikumar0459@gmail.com](mailto:manikumar0459@gmail.com)
+**Sharan Seerla Sagar**
+* Email: [seerlasagar@gmail.com](seerlasagar@gmail.com)
 
 ---
 
